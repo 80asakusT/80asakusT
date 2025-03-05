@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @80asakusT
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML and CSS.
 
 <!---
 80asakusT/80asakusT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
